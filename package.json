@@ -1,0 +1,25 @@
+{
+  "name": "crypta",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "main": "src/index.js",
+    "run": "src/index.js",
+    "build": "src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "discord.js": "^14.24.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "filesystem": "^1.0.1",
+    "mysql2": "^3.15.3"
+  },
+  "devDependencies": {
+    "electron": "^39.0.0"
+  }
+}
